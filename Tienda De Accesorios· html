@@ -31,6 +31,14 @@
 
 <main>
   <h2>Accesorios Disponibles</h2>
+
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:15px;margin-bottom:30px;">
+    <a href="stainless.html"><button style="background:#f5f5dc;color:#000;">Stainless Steel</button></a>
+    <a href="oro.html"><button style="background:#fff8dc;color:#000;">Baño en Oro</button></a>
+    <a href="hombre.html"><button style="background:#f5f5dc;color:#000;">Hombre</button></a>
+    <a href="mujer.html"><button style="background:#fff8dc;color:#000;">Mujer</button></a>
+  </div>
+
   <section class="products">
 
     <div class="card">
